@@ -1,7 +1,7 @@
-# Livro de receita :C
+# Livro de receita :D
 
 Seja bem vindo
 
-- Storgonofe de Frango
+- Strogonofe de Frango
 
-- 
+- Pavê
